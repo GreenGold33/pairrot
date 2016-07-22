@@ -30,7 +30,7 @@ func main() {
 		"Devorah",
 		"Jonathan",
 		"Minyoung",
-		"kkkjjjkkDaniel",
+		"Daniel",
 		"John",
 		"Sebastian",
 		"Joseph",
